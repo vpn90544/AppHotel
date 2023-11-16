@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.appimage.entry_point'
+    namespace 'com.apphotel.entry_point'
     compileSdk 34
 
     defaultConfig {
@@ -39,7 +39,6 @@ dependencies {
     implementation project(":base:arch")
     implementation project(":celebrity:core")
     implementation project(":celebrity:network")
-    implementation project(":celebrity:storage")
     implementation project(":celebrity:utils")
 
     implementation project(":api:mainscreen_api")

@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.appimage.core'
+    namespace 'com.apphotel.core'
     compileSdk 34
 
     defaultConfig {

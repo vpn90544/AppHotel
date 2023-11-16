@@ -14,12 +14,11 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppImage"
+rootProject.name = "AppHotel"
 include ':app'
 include ':celebrity'
 include ':celebrity:network'
 include ':celebrity:core'
-include ':celebrity:storage'
 include ':features'
 include ':features:mainscreen'
 include ':api'

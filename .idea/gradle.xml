@@ -22,7 +22,6 @@
             <option value="$PROJECT_DIR$/celebrity/core" />
             <option value="$PROJECT_DIR$/celebrity/core_ui" />
             <option value="$PROJECT_DIR$/celebrity/network" />
-            <option value="$PROJECT_DIR$/celebrity/storage" />
             <option value="$PROJECT_DIR$/celebrity/utils" />
             <option value="$PROJECT_DIR$/features" />
             <option value="$PROJECT_DIR$/features/all_image_screen" />

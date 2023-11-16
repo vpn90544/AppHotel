@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.appimage.mainscreen_api'
+    namespace 'com.apphotel.mainscreen_api'
     compileSdk 34
 
     defaultConfig {

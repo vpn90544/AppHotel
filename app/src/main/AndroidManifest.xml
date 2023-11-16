@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:name=".app.AppImageApp"
+        android:name="com.apphotel.apphotel.app.AppHotelApp"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:usesCleartextTraffic="true"
@@ -20,7 +20,7 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:screenOrientation="portrait"
-            android:name="com.appimage.entry_point.presentation.activity.MainActivity"
+            android:name="com.apphotel.entry_point.presentation.activity.MainActivity"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

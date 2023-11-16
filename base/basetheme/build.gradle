@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.appimage.basetheme'
+    namespace 'com.apphotel.basetheme'
     compileSdk 34
 
     defaultConfig {

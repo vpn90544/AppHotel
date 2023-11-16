@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.appimage.core_ui'
+    namespace 'com.apphotel.core_ui'
     compileSdk 34
 
     defaultConfig {

@@ -4,11 +4,11 @@ plugins {
     id 'kotlin-kapt'
 }
 android {
-    namespace 'com.appimage.appimage'
+    namespace 'com.apphotel.apphotel'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.appimage.appimage"
+        applicationId "com.apphotel.apphotel"
         minSdk 24
         targetSdk 33
         versionCode 1
@@ -40,7 +40,6 @@ dependencies {
     implementation project(":base:arch")
     implementation project(":celebrity:core")
     implementation project(":celebrity:network")
-    implementation project(":celebrity:storage")
     implementation project(":features:entry_point")
 
     implementation project(":features:mainscreen")
